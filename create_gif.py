@@ -1,9 +1,9 @@
 import imageio.v3 as iio
 
 filenames = [
-    'final_project/Gengar/1.jpg',
-    'final_project/Gengar/2.jpg',
-    'final_project/Gengar/3.jpg',
+    'gengar/1.jpg',
+    'gengar/2.jpg',
+    'gengar/3.jpg',
 ]
 
 images = [ ]
